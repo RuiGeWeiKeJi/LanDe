@@ -1,0 +1,4 @@
+D:\Project data\LanDe\ReportForm\ReportForm\ReportQuery\bin\Debug\ReportQuery.dll
+D:\Project data\LanDe\ReportForm\ReportForm\ReportQuery\bin\Debug\ReportQuery.pdb
+D:\Project data\LanDe\ReportForm\ReportForm\ReportQuery\obj\Debug\ReportQuery.dll
+D:\Project data\LanDe\ReportForm\ReportForm\ReportQuery\obj\Debug\ReportQuery.pdb

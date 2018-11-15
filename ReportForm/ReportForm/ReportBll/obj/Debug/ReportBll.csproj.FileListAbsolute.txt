@@ -1,0 +1,5 @@
+D:\Project data\LanDe\ReportForm\ReportForm\ReportBll\bin\Debug\ReportBll.dll
+D:\Project data\LanDe\ReportForm\ReportForm\ReportBll\bin\Debug\ReportBll.pdb
+D:\Project data\LanDe\ReportForm\ReportForm\ReportBll\obj\Debug\ReportBll.csprojResolveAssemblyReference.cache
+D:\Project data\LanDe\ReportForm\ReportForm\ReportBll\obj\Debug\ReportBll.dll
+D:\Project data\LanDe\ReportForm\ReportForm\ReportBll\obj\Debug\ReportBll.pdb

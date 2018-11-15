@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="08/15/2016 18:21:43" ReportInfo.Modified="12/26/2016 17:04:46" ReportInfo.CreatorVersion="2013.2.5.0">
+  <Dictionary>
+    <OleDbDataConnection Name="Connection" ConnectionString="rijcmlqVzFGsc+BVENiWJhr/EarGmpXzxTZgUAjISq3RkDjjM5ZdA0Eie6dOX00uEjsgFbs2P21LCiEodm4mXhqbVVd2+NHmgBNATe/lpCdduLYhuC6tL/qyN0BSF8rYLcjWm25K2GCD+NeQZ32uHtJu5GmVQ==">
+      <TableDataSource Name="Table" Alias="SGMBGD" DataType="System.Int32" Enabled="true" SelectCommand="WITH CFT AS (&#13;&#10;SELECT BGD032,A.BGD006,A.BGD008,A.BGD010 BZ,B.BGD010 GK,C.BGD010 NP&#13;&#10; FROM (SELECT BGD032,BGD006,BGD005,BGD008,BGD004,BGD010 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) A &#13;&#10; LEFT JOIN (&#13;&#10; SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='光刻'&#13;&#10; ) B ON A.BGD006=B.BGD006 LEFT JOIN (&#13;&#10; SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='粘片'&#13;&#10; ) C ON A.BGD006=C.BGD006&#13;&#10; LEFT JOIN SGMRAC D ON A.BGD004=D.RAC003 AND A.BGD006=D.RAC001 RIGHT JOIN SGMRAA E ON D.RAC001=E.RAA001 WHERE RAA020='Y'&#13;&#10; AND RAC003 IN ( '02','05','16')&#13;&#10;AND A.BGD006 IS NOT NULL&#13;&#10;),&#13;&#10;CET AS(&#13;&#10;SELECT A.BGD008,&#13;&#10;CONVERT(DECIMAL(11,2),SUM(A.BGD010*1.0)/SUM(B.BGD010)) CP,&#13;&#10;CONVERT(DECIMAL(11,2),SUM(A.BGD010*1.0)/SUM(C.BGD010)) CL &#13;&#10;FROM (&#13;&#10;SELECT BGD032,BGD006,BGD005,BGD008,BGD004,BGD010 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL  &#13;&#10;) A   &#13;&#10;LEFT JOIN ( SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='光刻'  ) B ON A.BGD006=B.BGD006 &#13;&#10;LEFT JOIN ( SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='粘片'  ) C ON A.BGD006=C.BGD006  &#13;&#10;LEFT JOIN SGMRAC D ON A.BGD004=D.RAC003 AND A.BGD006=D.RAC001 RIGHT JOIN SGMRAA E ON D.RAC001=E.RAA001 &#13;&#10;WHERE RAA020='Y' AND RAC003 IN ( '02','05','16') AND A.BGD006 IS NOT NULL&#13;&#10;GROUP BY A.BGD008)&#13;&#10;&#13;&#10;SELECT A.*,B.CP,B.CL FROM CFT A LEFT JOIN CET B ON A.BGD008=B.BGD008 ORDER BY A.BGD008&#13;&#10;">
+        <Column Name="BGD032" DataType="System.DateTime"/>
+        <Column Name="BGD006" DataType="System.String"/>
+        <Column Name="BGD008" DataType="System.String"/>
+        <Column Name="BZ" DataType="System.Int32"/>
+        <Column Name="GK" DataType="System.Int32"/>
+        <Column Name="NP" DataType="System.Int32"/>
+        <Column Name="CP" DataType="System.Decimal"/>
+        <Column Name="CL" DataType="System.Decimal"/>
+      </TableDataSource>
+      <TableDataSource Name="Table1" Alias="SGMBGDS" DataType="System.Int32" Enabled="true" SelectCommand="SELECT &#13;&#10;CONVERT(DECIMAL(11,2),SUM(A.BGD010*1.0)/SUM(B.BGD010)/100) CP,&#13;&#10;CONVERT(DECIMAL(11,2),SUM(A.BGD010*1.0)/SUM(C.BGD010)/100) CL FROM (SELECT BGD032,BGD006,BGD005,BGD008,BGD004,BGD010 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) A   LEFT JOIN ( SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='光刻'  ) B ON A.BGD006=B.BGD006 LEFT JOIN ( SELECT BGD006,BGD005,BGD010 FROM SGMBGD WHERE BGD006 IN (SELECT BGD006 FROM SGMBGD WHERE BGD005='包装' AND BGD008 IS NOT NULL) AND BGD005='粘片'  ) C ON A.BGD006=C.BGD006  LEFT JOIN SGMRAC D ON A.BGD004=D.RAC003 AND A.BGD006=D.RAC001 RIGHT JOIN SGMRAA E ON D.RAC001=E.RAA001 WHERE RAA020='Y' AND RAC003 IN ( '02','05','16') AND A.BGD006 IS NOT NULL&#13;&#10;">
+        <Column Name="CP" DataType="System.Decimal"/>
+        <Column Name="CL" DataType="System.Decimal"/>
+      </TableDataSource>
+    </OleDbDataConnection>
+    <Total Name="TotalOne" Expression="[SGMBGD.BZ]" Evaluator="Data1"/>
+    <Total Name="TotalTwo" Expression="[SGMBGD.GK]" Evaluator="Data1"/>
+    <Total Name="TotalTre" Expression="[SGMBGD.NP]" Evaluator="Data1"/>
+  </Dictionary>
+  <ReportPage Name="Page1" RawPaperSize="9" StartPageEvent="Page1_StartPage">
+    <PageHeaderBand Name="PageHeader1" Width="718.2" Height="47.25">
+      <TextObject Name="Text1" Top="28.35" Width="113.4" Height="18.9" Border.Lines="All" Text="包装报工日期" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text2" Left="113.4" Top="28.35" Width="103.95" Height="18.9" Border.Lines="All" Text="工单单号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text3" Left="217.35" Top="28.35" Width="113.4" Height="18.9" Border.Lines="All" Text="主件型号" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text4" Left="330.75" Top="28.35" Width="66.15" Height="18.9" Border.Lines="All" Text="包装数量" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text5" Left="396.9" Top="28.35" Width="66.15" Height="18.9" Border.Lines="All" Text="光刻数量" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text6" Left="463.05" Top="28.35" Width="66.15" Height="18.9" Border.Lines="All" Text="粘片数量" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text7" Left="529.2" Top="28.35" Width="94.5" Height="18.9" Border.Lines="All" Text="产品成品率" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text8" Left="623.7" Top="28.35" Width="94.5" Height="18.9" Border.Lines="All" Text="管座消耗率" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text25" Width="718.2" Height="28.35" Text="月成品率报表" HorzAlign="Center" VertAlign="Center" Font="宋体, 14pt, style=Bold"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="51.25" Width="718.2" Height="18.9" DataSource="Table">
+      <TextObject Name="Text9" Width="113.4" Height="18.9" Border.Lines="All" Text="[SGMBGD.BGD032]" Format="Date" Format.Format="d" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text10" Left="113.4" Width="103.95" Height="18.9" Border.Lines="All" Text="[SGMBGD.BGD006]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text11" Left="217.35" Width="113.4" Height="18.9" Border.Lines="All" Text="[SGMBGD.BGD008]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text12" Left="330.75" Width="66.15" Height="18.9" Border.Lines="All" Text="[SGMBGD.BZ]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text13" Left="396.9" Width="66.15" Height="18.9" Border.Lines="All" Text="[SGMBGD.GK]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text14" Left="463.05" Width="66.15" Height="18.9" Border.Lines="All" Text="[SGMBGD.NP]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text15" Left="529.2" Width="94.5" Height="18.9" Border.Lines="All" Text="[SGMBGD.CP]" Format="Percent" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.PercentSymbol="%" Format.PositivePattern="1" Format.NegativePattern="1" HorzAlign="Right" VertAlign="Center" WordWrap="false" Font="宋体, 9pt, style=Bold" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text16" Left="623.7" Width="94.5" Height="18.9" Border.Lines="All" Text="[SGMBGD.CL]" Format="Percent" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.PercentSymbol="%" Format.PositivePattern="1" Format.NegativePattern="1" HorzAlign="Right" VertAlign="Center" WordWrap="false" Font="宋体, 9pt, style=Bold" Trimming="EllipsisCharacter"/>
+    </DataBand>
+    <ReportSummaryBand Name="ReportSummary1" Top="74.15" Width="718.2" Height="18.9">
+      <TextObject Name="Text17" Width="113.4" Height="18.9" Border.Lines="All" Format="Date" Format.Format="d" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text18" Left="113.4" Width="103.95" Height="18.9" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text19" Left="217.35" Width="113.4" Height="18.9" Border.Lines="All" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text20" Left="330.75" Width="66.15" Height="18.9" Border.Lines="All" Text="[TotalOne]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text21" Left="396.9" Width="66.15" Height="18.9" Border.Lines="All" Text="[TotalTwo]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text22" Left="463.05" Width="66.15" Height="18.9" Border.Lines="All" Text="[TotalTre]" HorzAlign="Center" VertAlign="Center" Font="宋体, 9pt, style=Bold"/>
+      <TextObject Name="Text23" Left="529.2" Width="94.5" Height="18.9" Border.Lines="All" Text="[SGMBGDS.CP]" Format="Percent" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.PercentSymbol="%" Format.PositivePattern="1" Format.NegativePattern="1" HorzAlign="Right" VertAlign="Center" WordWrap="false" Font="宋体, 9pt, style=Bold" Trimming="EllipsisCharacter"/>
+      <TextObject Name="Text24" Left="623.7" Width="94.5" Height="18.9" Border.Lines="All" Text="[SGMBGDS.CL]" Format="Percent" Format.UseLocale="false" Format.DecimalDigits="0" Format.DecimalSeparator="." Format.GroupSeparator="," Format.PercentSymbol="%" Format.PositivePattern="1" Format.NegativePattern="1" HorzAlign="Right" VertAlign="Center" WordWrap="false" Font="宋体, 9pt, style=Bold" Trimming="EllipsisCharacter"/>
+    </ReportSummaryBand>
+  </ReportPage>
+</Report>

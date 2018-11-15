@@ -1,0 +1,158 @@
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.PersonnelInformationAll.resources
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.Properties.Resources.resources
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.csproj.GenerateResource.Cache
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.dll.config
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.dll
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeLibrary.dll
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeBll.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeLibrary.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.dll
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.TechnologyAll.resources
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.WorkOrderAll.resources
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.R_FrmBatch.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeQuery.dll.config
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeQuery.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeQuery.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Data.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraEditors.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraGrid.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraLayout.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraPrinting.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraBars.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraTreeList.v13.1.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeLibrary.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Data.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraEditors.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraGrid.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraLayout.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraPrinting.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeBll.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraBars.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.XtraTreeList.v13.1.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\LanDeLibrary.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraEditors.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraGrid.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraLayout.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraPrinting.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraBars.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraBars.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraBars.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraBars.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.XtraTreeList.v13.1.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.csprojResolveAssemblyReference.cache
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.PersonnelInformationAll.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.Properties.Resources.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.R_FrmBatch.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.TechnologyAll.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.WorkOrderAll.resources
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.csproj.GenerateResource.Cache
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.dll.licenses
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeQuery\obj\Debug\LanDeQuery.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.csprojResolveAssemblyReference.cache
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.UI.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\Project data\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.dll.config
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.dll
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeQuery.pdb
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeBll.dll
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeLibrary.dll
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Data.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Office.v16.2.Core.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.RichEdit.v16.2.Core.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.Utils.v16.2.UI.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraBars.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.UI.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraCharts.v16.2.Wizard.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraGrid.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraLayout.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraNavBar.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraPrinting.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraRichEdit.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraTreeList.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\DevExpress.XtraVerticalGrid.v16.2.xml
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeBll.pdb
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\bin\Debug\LanDeLibrary.pdb
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.csprojResolveAssemblyReference.cache
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.PersonnelInformationAll.resources
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.Properties.Resources.resources
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.R_FrmBatch.resources
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.TechnologyAll.resources
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.WorkOrderAll.resources
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.csproj.GenerateResource.Cache
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.dll
+D:\ProjectData\LanDe\LanDeOrder\LanDeQuery\obj\Debug\LanDeQuery.pdb

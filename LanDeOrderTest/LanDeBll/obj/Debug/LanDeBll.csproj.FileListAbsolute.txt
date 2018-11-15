@@ -1,0 +1,21 @@
+D:\Project data\LanDe\LanDeOrder\LanDeBll\bin\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrder\LanDeBll\bin\Debug\LanDeBll.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeBll\obj\Debug\LanDeBll.csprojResolveAssemblyReference.cache
+D:\Project data\LanDe\LanDeOrder\LanDeBll\obj\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrder\LanDeBll\obj\Debug\LanDeBll.pdb
+D:\Project data\LanDe\LanDeOrder\LanDeBll\bin\Debug\LanDeLibrary.dll
+D:\Project data\LanDe\LanDeOrder\LanDeBll\bin\Debug\LanDeLibrary.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeBll.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeLibrary.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeLibrary.pdb
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.csprojResolveAssemblyReference.cache
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.dll
+D:\Project data\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.pdb
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeBll.dll
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeBll.pdb
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeLibrary.dll
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\bin\Debug\LanDeLibrary.pdb
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.csprojResolveAssemblyReference.cache
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.dll
+D:\ProjectData\LanDe\LanDeOrderTest\LanDeBll\obj\Debug\LanDeBll.pdb
